@@ -34,7 +34,7 @@
     </div>
     <div class="px-6 pt-4 pb-2">
       <a :href="article.url" class="button">Read more</a>
-    </div>
+    </div><br><br>
   </div>
   </div>
 </template>

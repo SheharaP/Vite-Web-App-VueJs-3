@@ -8,6 +8,8 @@ export default defineConfig({
     '@' : path.resolve(__dirname, './src')
   },
   plugins: [vue()],
-  publicPath: process.env.NODE_ENV === "production" ? "/Web-Development/" : "/",
 })
 
+module.exports = {
+  publicPath: process.env.NODE_ENV === "production" ? "/Web-Development/" : "/",
+};

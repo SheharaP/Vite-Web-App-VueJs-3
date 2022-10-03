@@ -34,30 +34,23 @@
          "url":"http://www.catipsum.com",
          "urlToImage":"img/blogimages/catn-1.jpg"
       },
-       {
-          "title":"Kitty 3",
-          "description":"i haven't decided whether or not i wanna go out. Love and coo around boyfriend who purrs and makes the perfect moonlight eyes so i can purr and swat the glittery gleaming yarn to him (the yarn is from a $125 sweater)",
-          "url":"https://www.catchat.org/index.php/",
-          "urlToImage":"img/blogimages/catn1.jpg"
-       },
-       {
-          "title":"Kitty 4",
-          "description":"Annoy owner until he gives you food say meow repeatedly until belly rubs, feels good meow. Damn that dog cat not kitten around push your water glass on the floor yet Gate keepers of hell hunt by meowing loudly at 5am next to human slave food dispenser.",
-          "url":"https://www.cats.org.uk/",
-          "urlToImage":"img/blogimages/cat4.jpg"
-       },
-       {
-          "title":"Kitty 5",
-          "description":"Plays league of legends paw at beetle and eat it before it gets away. Pet my belly, you know you want to; seize the hand and shred it! what a cat-ass-trophy!, but i'm bored inside, let me out i'm lonely outside, let me in. i can't make up my mind",
-          "url":"https://www.bluecross.org.uk/rehome/cat",
-          "urlToImage":"img/blogimages/cat5.jpg"
-       },
-       {
-          "title":"Kitty 6",
-          "description":"Play riveting piece on synthesizer keyboard step on your keyboard while you're gaming and then turn in a circle . Meowing non stop for food i like big cats and i can not lie and white cat sleeps on a black shirt and intrigued by the shower",
-          "url":"https://stoke.cats.org.uk/",
-          "urlToImage":"img/blogimages/cat6.jpg"
-       }
+      {
+         "title":"Bringring Your Cat Home?",
+         "description":"Cats are very territorial, thus they get very nervous when they move into a new house. Who knows what may be hiding in all that uncharted space. Give him a modest space to call his own for the first few days or weeks as a courtesy.",
+         "list" : {
+           "title" : "",
+           "desc" : ""
+         },
+         "consider" : {
+           "title" : "Things to consider: ",
+           "desc1" : "Place a litter box in his room where he can use it quietly and fill it with one to two inches of litter.",
+           "desc2" : "You may give your new cat his very own cozy retreat because cats prefer to get away from it all in little spaces. It could be a good idea if he arrived home in a cat carrier. Another option to create one is to carve a doorway into the end of a box for her.",
+           "desc3" : "Make sure there are no fragile items on display there or on other high shelves since you could be astonished to discover him on top of the upper kitchen cupboards.",
+           "desc4" : "Discuss the ground rules with any other human family members if you have one. Tell them to keep the door to his room closed and not to startle him."
+         },
+         "url":"http://www.catipsum.com",
+         "urlToImage":"img/blogimages/cat4.jpg"
+      }
          ]
       }
      
