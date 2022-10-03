@@ -25,27 +25,27 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
-    component: () => import('../views/AboutView.vue')
+    path: '/search',
+    name: 'search',
+    component: () => import('../views/FindPetview.vue')
   },
   {
-    path: '/pets',
-    name: 'Pets',
-    component: () => import('../views/PetsView.vue')
+    path: '/adopt',
+    name: 'Adopt',
+    component: () => import('../views/AdoptionView.vue')
   },
   {
-    path: '/news',
-    name: 'News',
-    component: () => import('../views/NewsView.vue'),
+    path: '/events',
+    name: 'events',
+    component: () => import('../views/EventsView.vue'),
     meta: {
       requiresAuth: true,
     }
   },
   {
-    path: '/register',
-    name: 'Register',
-    component: () => import('../views/RegisterView.vue')
+    path: '/about',
+    name: 'about',
+    component: () => import('../views/AboutView.vue')
   }
 ]
 

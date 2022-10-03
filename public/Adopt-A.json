@@ -1,0 +1,64 @@
+{
+    "articles":[
+       {
+          "title":"Dog Adoption Checklist",
+          "description":"Thank you for choosing to adopt a dog! You are starting a fantastic and fulfilling relationship. We've created a checklist to aid with the transition because getting a new dog involves a lot of adjustment for both the dog and the dog parent.  ",
+          "list" : {
+            "title" : "Dog essentials include:",
+            "desc" : "Make sure they are vaccinated, Water and food bowls, (Dry or canned) food, Collar, 4-6 foot leash with an ID tag that has your phone number, Foldable metal crates or a hard plastic container, Pet bed, Shampoo and conditioner, Toothpaste and a toothbrush for dogs, Nailing clippers, Depending on the length and type of your dog's coat, brush or comb, Very absorbent paper towels, Chemical-free cleaner, Odor neutralizer with enzymes, Pooper scooper or plastic poop bags (biodegradable ones are preferred), and a range of toys."
+          },
+          "consider" : {
+            "title" : "Things to consider: ",
+            "desc1" : "How will your current dogs respond to a new pet if you already have one?",
+            "desc2" : "Is the dog you're thinking about getting a good fit in your existing home and affordable with your current financial status?",
+            "desc3" : "How will having a dog influence your capacity to maintain your social or professional obligations?",
+            "desc4" : "Do you or any members of your home or family have any health conditions that a dog could exacerbate?"
+          },
+          "url":"http://www.catipsum.com",
+          "urlToImage":"img/blogimages/dog1.jpg"
+       },
+       {
+         "title":"Cat Adoption Checklist",
+         "description":"Thank you for choosing to adopt a cat! You are starting a fantastic and fulfilling relationship. We've created a checklist to aid with the transition because adopting a new cat involves a lot of adjustment for both the cat and the cat parent.",
+         "list" : {
+           "title" : "Cat essentials include:",
+           "desc" : "Water and food bowls, (Dry or canned) food, Collar, Litter box and scooper, Kitty litter, Brushes or combs, Toothpaste and a toothbrush for dogs, Nailing clippers, Toys (catnip are a favorite), Chemical-free cleaner, Odor neutralizer with enzymes."
+         },
+         "consider" : {
+           "title" : "Things to consider: ",
+           "desc1" : "How would a new cat affect any existing pets you may have, if any?",
+           "desc2" : "Do you have a plan in place for your new cat when you go on vacation or travel for work?",
+           "desc3" : "How does the people you share a home with feel about the cat?",
+           "desc4" : "Do you (or your spouse, partner, or roommate) have allergies or an intolerance to cat fur, grime, or other aspects of living with a cat?"
+         },
+         "url":"http://www.catipsum.com",
+         "urlToImage":"img/blogimages/catn-1.jpg"
+      },
+       {
+          "title":"Kitty 3",
+          "description":"i haven't decided whether or not i wanna go out. Love and coo around boyfriend who purrs and makes the perfect moonlight eyes so i can purr and swat the glittery gleaming yarn to him (the yarn is from a $125 sweater)",
+          "url":"https://www.catchat.org/index.php/",
+          "urlToImage":"img/blogimages/catn1.jpg"
+       },
+       {
+          "title":"Kitty 4",
+          "description":"Annoy owner until he gives you food say meow repeatedly until belly rubs, feels good meow. Damn that dog cat not kitten around push your water glass on the floor yet Gate keepers of hell hunt by meowing loudly at 5am next to human slave food dispenser.",
+          "url":"https://www.cats.org.uk/",
+          "urlToImage":"img/blogimages/cat4.jpg"
+       },
+       {
+          "title":"Kitty 5",
+          "description":"Plays league of legends paw at beetle and eat it before it gets away. Pet my belly, you know you want to; seize the hand and shred it! what a cat-ass-trophy!, but i'm bored inside, let me out i'm lonely outside, let me in. i can't make up my mind",
+          "url":"https://www.bluecross.org.uk/rehome/cat",
+          "urlToImage":"img/blogimages/cat5.jpg"
+       },
+       {
+          "title":"Kitty 6",
+          "description":"Play riveting piece on synthesizer keyboard step on your keyboard while you're gaming and then turn in a circle . Meowing non stop for food i like big cats and i can not lie and white cat sleeps on a black shirt and intrigued by the shower",
+          "url":"https://stoke.cats.org.uk/",
+          "urlToImage":"img/blogimages/cat6.jpg"
+       }
+         ]
+      }
+     
+  

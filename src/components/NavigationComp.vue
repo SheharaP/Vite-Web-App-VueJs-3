@@ -12,21 +12,28 @@
       <img class="p-0 mt-5 my-0 object-fill h-48 w-auto" src="../assets/logo.png" alt="logo">
 
       <div class="flex items-center justify-right">
+        
+
         <router-link to="/" class="
             text-xxl
             font-bold
             text-gray-100
-            mr-80
+            mr-10
+            sm:mr-80
             md:text-2xl
             md:mt-10
           ">Springfield Pet Rescue
         </router-link>
-        <!-- Mobile menu button -->
-        <div @click="toggleNav" class="flex md:hidden">
+      </div>
+
+      <!-- Mobile menu button -->
+      <div @click="toggleNav" class="flex md:hidden">
           <button type="button" class="
-              text-gray-100
-              hover:text-gray-400
-              focus:outline-none focus:text-gray-400
+              text-black-100
+              mt-10
+              hover:text-black-400
+              focus:outline-none focus:text-black-400
+              
             ">
             <svg viewBox="0 0 20 20" class="w-8 h-6 fill-current">
               <path fill-rule="evenodd"
@@ -35,13 +42,13 @@
             </svg>
           </button>
         </div>
-      </div>
 
       <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
       <ul :class="showMenu ? 'flex' : 'hidden'" class="
           flex-col
           mt-8
-          mx-20
+          xl:mx-10
+          mx-0
           space-y-4
           space-x-20
           md:flex md:space-y-0 md:flex-row md:items-center md:space-x-8 md:mt-10
@@ -50,14 +57,19 @@
         <router-link to="/">
           <li class="text-white text-lg font-bold hover:text-black cursor-pointer">Home</li>
         </router-link>
-        <router-link to="/pets">
+        <router-link to="/search">
           <li class="text-white text-lg font-bold hover:text-black cursor-pointer">Find a pet</li>
         </router-link>
         <router-link to="/about">
           <li class="text-white text-lg font-bold hover:text-black cursor-pointer">About Us</li>
         </router-link>
-        <router-link to="/"></router-link>
-        <li class="text-white text-lg font-bold hover:text-black cursor-pointer">Events</li>
+        <router-link to="/events">
+          <li class="text-white text-lg font-bold hover:text-black cursor-pointer">Events</li>
+        </router-link>
+        <router-link to="/adopt">
+          <li class="text-white text-lg font-bold hover:text-black cursor-pointer">Adoption</li>
+        </router-link>
+        
       </ul>
     </nav>
   </div>

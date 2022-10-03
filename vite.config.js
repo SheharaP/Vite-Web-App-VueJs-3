@@ -7,5 +7,7 @@ export default defineConfig({
   alias:{
     '@' : path.resolve(__dirname, './src')
   },
-  plugins: [vue()]
+  plugins: [vue()],
+  publicPath: process.env.NODE_ENV === "production" ? "/Web-Development/" : "/",
 })
+
