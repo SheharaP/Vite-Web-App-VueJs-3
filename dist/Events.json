@@ -1,0 +1,43 @@
+{
+    "articles":[
+       
+       {
+         "title":"Volunteer and Adopt",
+         "description":"Come, give a helping hand to the anials in need in the west Liverpool area! Stay tuned for more details.",
+         "url":"https://www.petfinder.com/",
+         "urlToImage":"img/blogimages/events-6.jpg"
+      },
+       {
+          "title":"Adopt now!",
+          "description":"Come find a best friend and adopt them! @ Springfield pet rescue on 2nd - 24th of Novemberfrom 9:00AM onwards.",
+          "url":"https://www.petfinder.com/",
+          "urlToImage":"img/blogimages/events-2.png"
+       },
+       {
+          "title":"October Volunteer Fest",
+          "description":"Volunteer with us to help animals in need in the Liverpool area. Happening on 9th Of October 10:00AM onwards in Liverpool City Office.",
+          "url":"https://www.petfinder.com/",
+          "urlToImage":"img/blogimages/events-5.png"
+       },
+       {
+         "title":"Pup Adoption Week",
+         "description":"Dog adoption December is coming up, stay tuned and join us and find a dog and a friend you'll love.",
+         "url":"https://www.petfinder.com/",
+         "urlToImage":"img/blogimages/events-1.png"
+      },
+       {
+          "title":"Come and adopt now!",
+          "description":"We are open this whole weekend! So you can come check out our lovely pets and adopt them!",
+          "url":"https://www.petfinder.com/",
+          "urlToImage":"img/blogimages/events-3.webp"
+       },
+       {
+          "title":"Volunteer in the month of August with Springfield Pet Rescue",
+          "description":"Help a friend in need!",
+          "url":"https://www.petfinder.com/",
+          "urlToImage":"img/blogimages/events-4.png"
+       }
+         ]
+      }
+     
+  

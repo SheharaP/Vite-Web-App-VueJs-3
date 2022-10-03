@@ -1,0 +1,42 @@
+{
+    "articles":[
+       {
+          "title":"Mayline",
+          "description":"Each ear in cats has 32 muscles. Approximately 70% of a cat's life is spent sleeping, which can be up to 16 hours every day.",
+          "url":"http://www.catipsum.com",
+          "urlToImage":"img/blogimages/cat1.jpg"
+       },
+       {
+          "title":"Darla",
+          "description":"Cats ought to have 18 toes (five toes on each front paw; four toes on each back paw). ",
+          "url":"https://simonscat.com/",
+          "urlToImage":"img/blogimages/cat2.jpg"
+       },
+       {
+          "title":"Macy",
+          "description":"Cats' claws all point downward, therefore, they are unable to descend trees headfirst. Instead, they must regress the trunk. ",
+          "url":"https://www.catchat.org/index.php/",
+          "urlToImage":"img/blogimages/cat3.jpg"
+       },
+       {
+          "title":"Winnie",
+          "description":"Cats may groom themselves for up to a third of their awake hours. Humans only have 206 bones, compared to 230 in cats.",
+          "url":"https://www.cats.org.uk/",
+          "urlToImage":"img/blogimages/cat4.jpg"
+       },
+       {
+          "title":"Snow",
+          "description":"Cats have a six-times-their-length leap capacity.  Dogs only have a few vocalizations, compared to cats' over a hundred.",
+          "url":"https://www.bluecross.org.uk/rehome/cat",
+          "urlToImage":"img/blogimages/cat5.jpg"
+       },
+       {
+          "title":"Aria",
+          "description":"Since cats make this sound when they're joyful as well as when they're sick or upset, purring may be a form of self-soothing activity.",
+          "url":"https://stoke.cats.org.uk/",
+          "urlToImage":"img/blogimages/cat6.jpg"
+       }
+         ]
+      }
+     
+  

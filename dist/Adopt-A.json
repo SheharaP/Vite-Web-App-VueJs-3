@@ -1,0 +1,57 @@
+{
+    "articles":[
+       {
+          "title":"Dog Adoption Checklist",
+          "description":"Thank you for choosing to adopt a dog! You are starting a fantastic and fulfilling relationship. We've created a checklist to aid with the transition because getting a new dog involves a lot of adjustment for both the dog and the dog parent.  ",
+          "list" : {
+            "title" : "Dog essentials include:",
+            "desc" : "Make sure they are vaccinated, Water and food bowls, (Dry or canned) food, Collar, 4-6 foot leash with an ID tag that has your phone number, Foldable metal crates or a hard plastic container, Pet bed, Shampoo and conditioner, Toothpaste and a toothbrush for dogs, Nailing clippers, Depending on the length and type of your dog's coat, brush or comb, Very absorbent paper towels, Chemical-free cleaner, Odor neutralizer with enzymes, Pooper scooper or plastic poop bags (biodegradable ones are preferred), and a range of toys."
+          },
+          "consider" : {
+            "title" : "Things to consider: ",
+            "desc1" : "How will your current dogs respond to a new pet if you already have one?",
+            "desc2" : "Is the dog you're thinking about getting a good fit in your existing home and affordable with your current financial status?",
+            "desc3" : "How will having a dog influence your capacity to maintain your social or professional obligations?",
+            "desc4" : "Do you or any members of your home or family have any health conditions that a dog could exacerbate?"
+          },
+          "url":"http://www.catipsum.com",
+          "urlToImage":"img/blogimages/dog1.jpg"
+       },
+       {
+         "title":"Cat Adoption Checklist",
+         "description":"Thank you for choosing to adopt a cat! You are starting a fantastic and fulfilling relationship. We've created a checklist to aid with the transition because adopting a new cat involves a lot of adjustment for both the cat and the cat parent.",
+         "list" : {
+           "title" : "Cat essentials include:",
+           "desc" : "Water and food bowls, (Dry or canned) food, Collar, Litter box and scooper, Kitty litter, Brushes or combs, Toothpaste and a toothbrush for dogs, Nailing clippers, Toys (catnip are a favorite), Chemical-free cleaner, Odor neutralizer with enzymes."
+         },
+         "consider" : {
+           "title" : "Things to consider: ",
+           "desc1" : "How would a new cat affect any existing pets you may have, if any?",
+           "desc2" : "Do you have a plan in place for your new cat when you go on vacation or travel for work?",
+           "desc3" : "How does the people you share a home with feel about the cat?",
+           "desc4" : "Do you (or your spouse, partner, or roommate) have allergies or an intolerance to cat fur, grime, or other aspects of living with a cat?"
+         },
+         "url":"http://www.catipsum.com",
+         "urlToImage":"img/blogimages/catn-1.jpg"
+      },
+      {
+         "title":"Bringring Your Cat Home?",
+         "description":"Cats are very territorial, thus they get very nervous when they move into a new house. Who knows what may be hiding in all that uncharted space. Give him a modest space to call his own for the first few days or weeks as a courtesy.",
+         "list" : {
+           "title" : "",
+           "desc" : ""
+         },
+         "consider" : {
+           "title" : "Things to consider: ",
+           "desc1" : "Place a litter box in his room where he can use it quietly and fill it with one to two inches of litter.",
+           "desc2" : "You may give your new cat his very own cozy retreat because cats prefer to get away from it all in little spaces. It could be a good idea if he arrived home in a cat carrier. Another option to create one is to carve a doorway into the end of a box for her.",
+           "desc3" : "Make sure there are no fragile items on display there or on other high shelves since you could be astonished to discover him on top of the upper kitchen cupboards.",
+           "desc4" : "Discuss the ground rules with any other human family members if you have one. Tell them to keep the door to his room closed and not to startle him."
+         },
+         "url":"http://www.catipsum.com",
+         "urlToImage":"img/blogimages/cat4.jpg"
+      }
+         ]
+      }
+     
+  
