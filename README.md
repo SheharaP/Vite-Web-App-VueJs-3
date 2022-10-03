@@ -11,5 +11,10 @@ The purpose of this task is to build a web application for the Springfield Pet R
 ## How to run code on local server
 
 >Clone repsoitory to visual studio code
+
+
 >npm install <dependencies> // axios/prettier/vite/vue
+
+
+
 >npm run dev //To run development server
